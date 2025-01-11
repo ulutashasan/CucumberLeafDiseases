@@ -8,3 +8,6 @@ Citation: Hasan Ulutas and Muhammet Emin Sahin "Classification of cucumber leaf 
 
 current dataset link:
 [https://drive.google.com/drive/folders/1OLZYObQ6Az255vl5ROtuVRWfOAQKk6cn?usp=drive_link](https://drive.google.com/drive/folders/1dMZScR3Bi8COJSmD8vRI733_3KkSAYyu?usp=sharing)
+
+Current data also includes the following data set. 
+https://data.mendeley.com/datasets/y6d3z6f8z9/1

@@ -6,7 +6,7 @@ The timely detection of diseases on plant leaves is of utmost importance for inc
 Citation: Hasan Ulutas and Muhammet Emin Sahin "Classification of cucumber leaf diseases on images using innovative ensembles of deep neural networks," Journal of Electronic Imaging 32(5), 053040 (26 October 2023). https://doi.org/10.1117/1.JEI.32.5.053040
 
 
-current dataset link:
+extended current dataset link:
 [https://drive.google.com/drive/folders/1OLZYObQ6Az255vl5ROtuVRWfOAQKk6cn?usp=drive_link](https://drive.google.com/drive/folders/1dMZScR3Bi8COJSmD8vRI733_3KkSAYyu?usp=sharing)
 
 Current data also includes the following data set. 

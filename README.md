@@ -9,5 +9,7 @@ Citation: Hasan Ulutas and Muhammet Emin Sahin "Classification of cucumber leaf 
 extended current dataset link:
 [https://drive.google.com/drive/folders/1OLZYObQ6Az255vl5ROtuVRWfOAQKk6cn?usp=drive_link](https://drive.google.com/drive/folders/1dMZScR3Bi8COJSmD8vRI733_3KkSAYyu?usp=sharing)
 
+Citation for the study using the extended dataset: Sahin, M. E., Özkaya, U., Arisoy, C., Coşar, H. İ., & Ulutaş, H. (2025). CucuNetCNNs: Application of novel ensemble deep neural networks for classification of cucumber leaf disease. Ain Shams Engineering Journal, 16(5), 103380.  https://doi.org/10.1016/j.asej.2025.103380
+
 Current data also includes the following data set. 
 https://data.mendeley.com/datasets/y6d3z6f8z9/1
